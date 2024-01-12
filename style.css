@@ -1,0 +1,25 @@
+body{
+text-align: center;
+}
+div{
+background-color:rgb(239, 155, 237) ;
+width:130px;
+height:5px ;
+margin:10px auto
+}
+section{
+height:100% ;
+}
+#apps{
+background-color: lightblue;
+}
+#games{
+background-color: rgb(230, 161, 233);
+
+}
+#chatbots{
+background-color: lightpink;
+}
+#games div{
+background-color: lightblue;
+}
